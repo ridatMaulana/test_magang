@@ -181,8 +181,8 @@
           <a href="#"><i class="fa fa-circle text-success"></i> Admin</a>
           @else
           <a href="#"><i class="fa fa-circle text-danger"></i> Guest</a>
-        </div>
         @endif
+        </div>
       </div>
       <!-- search form -->
       <form action="#" method="get" class="sidebar-form">
